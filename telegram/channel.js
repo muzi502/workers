@@ -9,11 +9,11 @@ const https = true
 
 const replace_dict = {
     '$upstream': '$custom_domain',
-    'cdn1.telesco.pe': 'cdn1-telesco-pe.k8srss.workers.dev',
-    'cdn2.telesco.pe': 'cdn2-telesco-pe.k8srss.workers.dev',
-    'cdn3.telesco.pe': 'cdn3-telesco-pe.k8srss.workers.dev',
-    'cdn4.telesco.pe': 'cdn4-telesco-pe.k8srss.workers.dev',
-    'cdn5.telesco.pe': 'cdn5-telesco-pe.k8srss.workers.dev',
+    'cdn1.telesco.pe': 'cdn1.k8srss.workers.dev',
+    'cdn2.telesco.pe': 'cdn2.k8srss.workers.dev',
+    'cdn3.telesco.pe': 'cdn3.k8srss.workers.dev',
+    'cdn4.telesco.pe': 'cdn4.k8srss.workers.dev',
+    'cdn5.telesco.pe': 'cdn5.k8srss.workers.dev',
     'telegram.org': 'telegram.k8srss.workers.dev'
 }
 
